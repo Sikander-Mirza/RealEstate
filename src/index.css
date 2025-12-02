@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* use Montserrat somewhere */
+.heading {
+  font-family: 'Montserrat', sans-serif;
+}
+
+@font-face {
+  font-family: 'MoglanDemo';
+  src: url('/src/assets/fonts/MoglanDemo.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.custom-title {
+  font-family: 'MoglanDemo', sans-serif;
+}
